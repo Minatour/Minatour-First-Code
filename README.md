@@ -1,2 +1,2 @@
 # Minatour-First-Code
-First Attempt at Coding
+This is the Master file i created.
